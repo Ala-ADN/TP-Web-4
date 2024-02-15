@@ -1,0 +1,9 @@
+li{
+    color: #19899c;
+    font-size: 100px;
+}
+ol{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
